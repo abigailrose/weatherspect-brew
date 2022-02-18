@@ -13,10 +13,10 @@ Requires homebrew to be previously installed: https://brew.sh
 Add formula to (local) homebrew:
 
 M1 Mac:
-```cp weatherspect.rb /opt/homebrew/Library/Taps/homebrew/homebrew-core/Formula/weatherspect.rb```
+```cp weatherspect.rb /opt/homebrew/Library/Taps/homebrew/homebrew-core/Formula/```
 
 Intel Mac:
-```cp weatherspect.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/weatherspect.rb```
+```cp weatherspect.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/```
 
 Install formula:
 
